@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-codegen/4.0.3/416429ea05c4c43afcf4104ab488bda10f43ba87/vertx-codegen-4.0.3-processor.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-service-proxy/4.0.3/df93b096a38ee0120e06943a8f7e3d0627c97418/vertx-service-proxy-4.0.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-core/4.0.3/40c496ede9a948ec673df8cf5ab227ff853dd061/vertx-core-4.0.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.3/c2351800432bdbdd8284c3f5a7f0782a352aa84a/jackson-core-2.11.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.60.Final/2352f12826400e5db64b36fd951508ce9a61c196/netty-handler-proxy-4.1.60.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.60.Final/23b13e78d704f337b12000d1ad27dbdb2aa07ba1/netty-codec-http2-4.1.60.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.60.Final/354ca712f909fcd9d8a22e16bf84afcfdc44ec8d/netty-codec-http-4.1.60.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns/4.1.60.Final/45950bf7fd55ef3c536131ed3ce00c3c2b7f27ce/netty-resolver-dns-4.1.60.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.60.Final/14e28bab0173be10c9631a85069636a0d0221dfe/netty-handler-4.1.60.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.60.Final/6f4573281df659265bd709fd10471c3e00ef6c70/netty-codec-socks-4.1.60.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-dns/4.1.60.Final/7abc81f9d79f5dc1d734e5174c8cfaf8a32cf981/netty-codec-dns-4.1.60.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.60.Final/b740d51babe3312a33b505cd8b62c02f3731b2e3/netty-codec-4.1.60.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.60.Final/94350c81cc7a78212fb0f52a500f22d1aa9c44d8/netty-transport-4.1.60.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.60.Final/9d213d090deeca2541ad6827eb3345bcd6e1e701/netty-buffer-4.1.60.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.60.Final/caba5004618d27386ee9d5ee8b23b09b6548fb0b/netty-resolver-4.1.60.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.60.Final/44540113f7148f1014be879663501db8da1c37b0/netty-common-4.1.60.Final.jar" />
+        </processorPath>
+        <module name="starter.main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
